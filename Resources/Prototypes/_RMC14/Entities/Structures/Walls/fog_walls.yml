@@ -53,19 +53,30 @@
 - type: entity
   parent: RMCFogWallPermanent
   id: RMCFogWallWeedPermanent
-  name: impenetrable weeds
-  description: These weeds look much thicker than any other xenonid structure.
+  name: calcified resin thicket
+  description: Stiffened and densely packed resin weeds. There doesn't seem to be a way to even begin to harm this resiliant pulsating malignance.
   suffix: Permanent, weed wall
   components:
   - type: Sprite
     drawdepth: Effects
     sprite: _RMC14/Effects/weedwall.rsi
     state: weedwall
+  - type: Icon
+    drawdepth: Effects
+    sprite: _RMC14/Effects/weedwall.rsi
+    state: weedwall
+  - type: IconSmooth
+    key: walls
+    additionalKeys:
+    - windows
+    - doors
+    base: weedwall
 
 - type: entity
   parent: RMCFogWallWeedPermanent
   id: RMCFogWallWeed30
-  description: These weeds look much thicker than any other xenonid structure, it looks like it is slowly wilting.
+  name: decaying calcified resin thicket
+  description: Stiffened and densely packed resin weeds. While they are currently impermeable, it does appear that this particular growth is slowly eroding with time.
   suffix: 30 minutes, weed wall
   components:
   - type: TimedDespawn

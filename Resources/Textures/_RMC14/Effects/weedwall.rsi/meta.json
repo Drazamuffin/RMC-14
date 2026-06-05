@@ -1,7 +1,7 @@
 {
   "version": 1,
   "license": "CC-BY-SA-4.0",
-  "copyright": "Created by Hazzulicious",
+  "copyright": "Created by Drazamuffing for RMC-SS14",
   "size": {
     "x": 32,
     "y": 32
@@ -9,6 +9,38 @@
   "states": [
     {
       "name": "weedwall"
+    },
+    {
+      "name": "weedwall0",
+      "directions": 4
+    },
+    {
+      "name": "weedwall1",
+      "directions": 4
+    },
+    {
+      "name": "weedwall2",
+      "directions": 4
+    },
+    {
+      "name": "weedwall3",
+      "directions": 4
+    },
+    {
+      "name": "weedwall4",
+      "directions": 4
+    },
+    {
+      "name": "weedwall5",
+      "directions": 4
+    },
+    {
+      "name": "weedwall6",
+      "directions": 4
+    },
+    {
+      "name": "weedwall7",
+      "directions": 4
     }
   ]
 }

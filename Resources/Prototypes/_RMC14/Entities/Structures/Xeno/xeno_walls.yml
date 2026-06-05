@@ -41,6 +41,14 @@
   components:
   - type: InvincibleHiveStructure
     replace: WallXenoResinThick
+  - type: Sprite
+    sprite: _RMC14/Structures/Xenos/xeno_resin_wall.rsi
+  - type: Icon
+    sprite: _RMC14/Structures/Xenos/xeno_resin_wall.rsi
+    state: thickresin
+  - type: IconSmooth
+    key: walls
+    base: thickresin
 
 - type: entity
   parent: DoorXenoResinThick
