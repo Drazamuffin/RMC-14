@@ -36,7 +36,8 @@
 - type: entity
   parent: WallXenoResinThick
   id: WallXenoResinImpenetrable
-  name: impenetrable resin wall
+  name: calcified thicket resin wall
+  description: Weird slime solidified into a thick wall. The wall appears to have become infested by a slowly decaying growth of extremely thick resin weeds growing through it. It's for the best to just wait for those weeds to release structure trapped within.
   suffix: Invincible, 30 minutes
   components:
   - type: InvincibleHiveStructure
@@ -53,7 +54,8 @@
 - type: entity
   parent: DoorXenoResinThick
   id: DoorXenoResinImpenetrable
-  name: impenetrable resin door
+  name: calcified thicket resin door
+  description: A thick resin door. It seems that the doors frame and tissue has become infested by a slowly decaying growth of extremely thick resin weeds growing through it. It's for the best to just wait for those weeds to release structure trapped within.
   suffix: Invincible, 30 minutes
   components:
   - type: InvincibleHiveStructure
