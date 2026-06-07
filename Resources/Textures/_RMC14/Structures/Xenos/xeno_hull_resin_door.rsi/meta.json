@@ -1,0 +1,107 @@
+{
+  "version": 1,
+  "license": "CC-BY-SA-3.0",
+  "copyright": "Taken from cmss13 at https://github.com/cmss13-devs/cmss13/blob/af7813ee8c36f9195a88f3b3d018af2b8833cbea/icons/mob/xenos/effects.dmi, modified by drazamuffin",
+  "size": {
+    "x": 32,
+    "y": 32
+  },
+  "states": [
+    {
+      "name": "hull_resin",
+      "directions": 4
+    },
+    {
+      "name": "hull_resinclosing",
+      "directions": 4,
+      "delays": [
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.5
+        ],
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.5
+        ],
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.5
+        ],
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.5
+        ]
+      ]
+    },
+    {
+      "name": "hull_resinopen",
+      "directions": 4
+    },
+    {
+      "name": "hull_resinopening",
+      "directions": 4,
+      "delays": [
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.5
+        ],
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.5
+        ],
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.5
+        ],
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.5
+        ]
+      ]
+    },
+    {
+      "name": "closed_unlit",
+      "directions": 4
+    }
+  ]
+}
