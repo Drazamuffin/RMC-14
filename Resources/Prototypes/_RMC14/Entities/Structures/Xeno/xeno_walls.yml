@@ -36,14 +36,14 @@
 - type: entity
   parent: WallXenoResinThick
   id: WallXenoResinImpenetrable
-  name: calcified thicket resin wall
-  description: Weird slime solidified into a thick wall. The wall appears to have become infested by a slowly decaying growth of extremely thick resin weeds growing through it. It's for the best to just wait for those weeds to release structure trapped within.
+  name: crystallized hard resin wall
+  description: Weird slime solidified into a thick resin wall, reinforced by a wierd extremely durable crystaline coating which makes any attempt to pierce it near impossible. However; it seems that this mantling is slowly decaying with time, sheding tiny sharp needle-like fibers in the process.... Best wait elsewhere for it's protection to wane.
   suffix: Invincible, 30 minutes
   components:
   - type: InvincibleHiveStructure
     replace: WallXenoResinThick
   - type: Sprite
-    sprite: _RMC14/Structures/Xenos/xeno_resin_wall.rsi
+    sprite: _RMC14/Structures/Xenos/xeno_resin_wall.rsi #this is basically asbestos resin, to hint at a the lung havers to buzz off
   - type: Icon
     sprite: _RMC14/Structures/Xenos/xeno_resin_wall.rsi
     state: thickresin
@@ -54,8 +54,8 @@
 - type: entity
   parent: DoorXenoResinThick
   id: DoorXenoResinImpenetrable
-  name: calcified thicket resin door
-  description: A thick resin door. It seems that the doors frame and tissue has become infested by a slowly decaying growth of extremely thick resin weeds growing through it. It's for the best to just wait for those weeds to release structure trapped within.
+  name: crystalised hard resin door
+  description: A thick resin door, reinforced by a wierd extremely durable crystaline coating which makes any attempt to pierce it near impossible. However; it seems that this mantling is slowly decaying with time, sheding tiny sharp needle-like fibers in the process.... Best wait elsewhere for it's protection to wane.
   suffix: Invincible, 30 minutes
   components:
   - type: InvincibleHiveStructure
