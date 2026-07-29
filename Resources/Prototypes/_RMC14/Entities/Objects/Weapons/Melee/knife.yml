@@ -65,13 +65,7 @@
         unwieldedOnly: true
       accuracyAddMult: -0.05
   - type: AttachablePrying
-  - type: DeleteOnExplosion
-  - type: Tool
-    qualities:
-    - Cutting
-    speedModifier: 0.8
-    useSound:
-      path: /Audio/Items/wirecutter.ogg
+  - type: DeleteOnExplosion # Do not add cutting to this, its literally a pointless component that only exists for cutting fences which attacking does at the same speed
 
 - type: entity
   parent: RMCM5Bayonet
