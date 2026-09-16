@@ -34,7 +34,7 @@ cl-briefing-kutjevo =
     • Geological activity (e.g. earthquakes or land-shift due to the drained aquifers beneath the site)
     • Maintenance failure of the colony's communications equipment
     • Failure to send the weekly "All-Clear" signal, resulting in an automated distress dispatch
-    • Sabotage by the "Colonial Liberation Front"
+    • Sabotage by the "Colony Liberation Front"
     • A solar flare from the Dykuma star causing electrical failures
 
 cl-briefing-solaris =
@@ -60,7 +60,7 @@ cl-briefing-solaris =
 
     {"[bold][head=3]Company Priorities[/head][/bold]"}
     ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-    Any operations on Routerra I should ensure that damage to critical infrastructure, such as filtration, mining, and medical, are minimized to damages deemed necessary for operational success.
+    Any operations on Routerra I should ensure to minimize damage to critical infrastructure such as the colony's nuclear reactor located to the south east of the southern landing zone.
     Weston-Yamada assets, including blackbox recordings, lichen & biological samples, as well as any personnel should be recovered by military personnel in the case of a critical loss of infrastructure or disaster.
 
     {"[bold][head=3]Potential Threats[/head][/bold]"}
@@ -69,7 +69,7 @@ cl-briefing-solaris =
 
     • Large-scale sandstorms resulting in equipment failure or signal interference
     • Seismic instability resulting in damage to the colony
-    • Hostile action undertaken by a Colonial Liberation Front cell
+    • Hostile action undertaken by the "Colony Liberation Front"
     • Biohazardous materials leakage, resulting in widespread contamination
 
 cl-briefing-lv624 =
@@ -125,13 +125,13 @@ cl-briefing-fiorina =
     ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
     Fiorina Science Annex was initially founded by Weston-Yamada to take advantage of the rich platinum veins located on the planet of Fiorina 161. However the sustainability of this operation was overestimated; after less then a decade, extraction of platinum was deemed to be more expensive then could be recouped.
 
-    In order to prevent serious loss of profit, Weston-Yamada partnered with the United Nations to establish Fiorina Science Annex, dedicated to the housing of High-Security inmates, as well as scientific research. Current estimates expect ~300 prisoners and ~120 employees to be on the station. Currently, the decommission of the station is being discussed by Weston-Yamada higher ups due to high operation costs for little gain.
+    In order to prevent serious loss of profit, Weston-Yamada partnered with the United Nations to establish Fiorina Science Annex, dedicated to the housing of inmates, as well as scientific research. Current estimates expect ~300 prisoners and ~120 employees to be on the station. Currently, the decommission of the station is being discussed by Weston-Yamada higher ups due to high operation costs for little gain.
 
     {"[head=3]Company Priorities[/head]"}
     ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
     Onboard military personnel are to retrieve any notable research material from Research Cellblocks.
     Due to inconsistent and infrequent reports from the Command Staff of Fiorina, information should be gathered to ascertain the current operations of the Orbital Penitentiary.
-    The potential decommission of the facility means that avoiding damage to the facility is less of a priority. The exception is the Engineering Ring, which could suffer a catastrophic failure and result in a large-scale nuclear explosion. Caution should be taken when engaging in high-damage actions around the ring.
+    The potential decommission of the facility means that avoiding damage to the facility is less of a priority. However Fiberbush research efforts should be best left undisturbed. Research indicates disturbance of firberbush's crystaline structurel could potentially result in health complications for deploying United Nations Marines.
 
     {"[head=3]Potential Threats[/head]"}
     ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
@@ -140,7 +140,7 @@ cl-briefing-fiorina =
     • Large-scale riots instigated by the inmates of the facility, potentially resulting in a complete hostile takeover
     • Failure of several or more high-importance technical systems due to age and decommissioning risks
     • Spread of research-based hazard(s), which may include chemical, biological, radiological, or nuclear (CBRN) hazards
-    • Failure of the station's circadian rhythm retainment system, causing widespread insomnia and instability
+    • Failure of the station's twilight zone terminator, causing widespread insomnia and instability
 
 cl-briefing-hybrisa =
     {"[bold]Weston-Yamada Corporation[/bold]"}
@@ -174,9 +174,8 @@ cl-briefing-hybrisa =
     Recent tensions between colonists and Weston-Yamada have lead to fears of instability. Corporate Safety & Prevention Analysts have revised the following causes of distress signal, from most to least likely:
 
     • Seismic events causing destruction and failure of high-maintenance systems
-    • Societal breakdown leading to public dissent, riots, and revolution, potentially involving the "Colonial Liberation Front"
+    • Political Instability, potentially involving the "Colony Liberation Front" stemming from the TSE's exit
     • Failure to send the weekly "all-clear" signal to prevent automated dispatch of a distress signal
-    • Political Instability stemming from the TSE's exit from the region
 
 cl-briefing-chances =
     {"[bold]Weston-Yamada Corporation[/bold]"}
@@ -193,26 +192,26 @@ cl-briefing-chances =
     ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
     {"[head=3]History & Purpose[/head]"}
     ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-    Chance's Claim is a mining colony located on the planet of LV-522, featuring a large-scale REK-160 Duel Atmospheric Processor & Reactor at the north of the colony.
+    Chance's Claim is a mining colony located on the planet of LV-522, featuring a large-scale REK-160 Mixed Flow Atmospheric Reactor at the north of the colony.
 
-    LV-522's harsh surface and atmospheric conditions made it an ideal testbed for the REK-160, designed to supplant the aging REK-150 line, as well as a location to engage in climatological and atmospheric research
+    LV-522's harsh surface and atmospheric conditions makes it an ideal testbed for the REK-160, designed to supplant the aging REK-150 line, as well as a location to engage in climatological and atmospheric research
 
-    The colony was initially established following the discovery of gold, cobalt, uranium, and beryllium. Mining-crawlers leaving the protective stormwalls are not an uncommon sight.
+    The colony was initially established following the discovery of gold, cobalt, uranium, and beryllium. Crawlers setting up prefabricated wind breakers are not an uncommon sight.
 
     {"[head=3]Company Priorities[/head]"}
     ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
     Find out the cause of contact loss with both the Colony and deployed UNMC FORECON marines.
     Liaise with any recovered FORECON marines to ascertain the situation, then report to Weston-Yamada.
     Ascertain the recoverability of WEYA employees.
-    Minimize damage to the REK-160 reactors to avoid a large-scale nuclear incident.
+    Minimize damage to the REK-160 reactors to avoid further set backs in LV-522's atmosphierc terraforming.
 
     {"[head=3]Potential Threats[/head]"}
     ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
     Following the loss of contact with UNS Hanyut FORECON marines, Corporate Safety & Prevention Analysts have revised the following causes of distress signal, from most to least likely:
 
-    • Total colonial revolt, supported by the "Colony Liberation Front"
-    • Critical reactor failure resulting in core criticality and radiological threat
     • Electromagnetic atmospheric storm causing communications failures and inability to exit the atmosphere
+    • Failure to scram reactor resulting in collapse of reactor's critical status and major setbacks in atmosphierc terraforming.
+    • Total colonial revolt, potentially involving the "Colony Liberation Front"
 
 cl-briefing-varadero =
     {"[bold]Weston-Yamada Corporation[/bold]"}
@@ -233,21 +232,21 @@ cl-briefing-varadero =
 
     Alongside the military function of the base, it also hosts a civilian population, who primarily operate in the fields of research and mining. It has a population of ~47 personnel, with UN Representative Steve Haifisch.
 
-    Current rumors indicate the potential existence of an unknown object of unknown origin in the south-east of the Colony. These rumors are currently unproven.
+    Current reports potentially indicate the existence of an object of unknown origin in the south of the Colony. This information is however, currently unproven.
     {"[head=3]Company Priorities[/head]"}
     ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-    Ascertain the presence of an unknown object in the south-east of the colony through cooperation with marine forces.
+    Ascertain the presence of the reported unknown object in the southern colony grounds through cooperation with marine forces.
     Potentially inform UNMC High Command of the Situation if CIC is unable to.
     Report any notable information to Weston-Yamada.
 
     {"[head=3]Potential Threats[/head]"}
     ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-    Due to New Varadero's position, tropical storms are common year-round. Current data indicates a failure in the communications array. Corporate Safety & Prevention Analysts indicate that the following are the most likely causes of distress signal, from most to least likely:
+    Due to New Varadero's position, tropical storms are common during the wet season. Current data indicates a failure in the communications array. Corporate Safety & Prevention Analysts indicate that the following are the most likely causes of distress signal, from most to least likely:
 
-    • Large-scale tropical storm resulting in damage to colonial infrastructure, including the communications array
+    • Large-scale tropical storm resulting in heavy damage to colonial infrastructure, including the communications array
     • Attack or sabotage by the Socialist Progressive Peoples to destabilize the United Nations Marine Corp
     • Failure to send the weekly "all-clear" signal to prevent automated dispatch of a distress signal
-    • Unknown threat originating from the unknown object
+    • Unidentified threat originating from alledged unknown object
 
 cl-briefing-shivas =
     {"[bold]Weston-Yamada Corporation[/bold]"}
@@ -319,6 +318,6 @@ cl-briefing-sorokyne =
     Very little is known in regards to the societal stability of Sorokyne Strata. Corporate Safety & Prevention Analysts have revised the following causes of distress signal, from most to least likely:
 
     • Seismic incidents caused by highly-active geothermal activity, resulting in damage to the colony
-    • Hostile action by an Anti-socialist "Colony Liberation Front" cell
+    • Hostile action by a anti-SPP "Colony Liberation Front" cell
     • Failure to send the weekly "all-clear" signal to prevent automated dispatch of a distress signal
     • Covert sabotage or hostile action by an unknown or classified UNMC or TSE military team
