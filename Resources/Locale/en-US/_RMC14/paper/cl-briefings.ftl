@@ -131,7 +131,7 @@ cl-briefing-fiorina =
     ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
     Onboard military personnel are to retrieve any notable research material from Research Cellblocks.
     Due to inconsistent and infrequent reports from the Command Staff of Fiorina, information should be gathered to ascertain the current operations of the Orbital Penitentiary.
-    The potential decommission of the facility means that avoiding damage to the facility is less of a priority. However Fiberbush research efforts should be best left undisturbed. Research indicates disturbance of firberbush's crystaline structurel could potentially result in health complications for deploying United Nations Marines.
+    The potential decommission of the facility means that avoiding damage to the facility is less of a priority. However Fiberbush research efforts should be best left undisturbed. Research indicates disturbance of firberbush's crystaline structure could potentially result in health complications for deploying United Nations Marines.
 
     {"[head=3]Potential Threats[/head]"}
     ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
